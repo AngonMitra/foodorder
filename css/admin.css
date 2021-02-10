@@ -1,0 +1,72 @@
+/*
+Author : Angon Mitra
+Theme : Food Ordering System
+*/
+.manu{
+  padding: 1%;
+}
+    .custom-nav .custom-nav-item a{
+      color: #0f0f0f !important;
+      font-weight: bold;
+      
+      
+    }
+    
+    .custom-nav-item:hover{
+      background-color: rgb(238, 238, 151);
+      border: none;
+      border-radius: 10px;
+      
+    }
+
+    .clearfix{
+      float: none;
+      clear: both;
+    }
+
+    .main-content{
+     padding: 8%;
+     
+    }
+
+
+    .box{
+    
+      width: 23%;
+      background-color: rgb(231, 240, 240);
+      margin: 1%;
+      padding: 1%;
+      float: left;
+    }
+
+
+ .footer{
+   padding: 5%;
+ }
+
+ .coll{
+   color: #2ed573;
+ }
+ .error{
+   color: #ff4757;
+ }
+
+
+ .login{
+   border: 2px solid  #2ed573;
+   width: 30%;
+   margin: 10% auto;
+   padding: 1%;
+ }
+ .text-center{
+   text-align: center;
+ }
+ .btn-success{
+   background-color: #10e96a;
+   
+ }
+
+ .tbl-30{
+   width: 20%;
+ 
+ }
